@@ -1,1 +1,1 @@
-https://laurarosechan.github.io/Midterm/
+https://laurarosechan.github.io/Midterm/index.html
